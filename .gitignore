@@ -1,0 +1,7 @@
+/data
+/data/*.dat
+/index
+/index/*
+/logs
+/logs/*.log
+/conf/*.toml.default
