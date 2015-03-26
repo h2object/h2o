@@ -1,0 +1,65 @@
+[h2o]
+appid = "application-id"
+secret = "application-secret"
+index = "index.md?template=home"
+admin = false
+cache = false
+default_limit_size = 20
+
+[event]
+currency = 50
+
+[session]
+duration = "1h"
+
+[auth]
+	[auth.mobile]
+	enable = true
+
+	[auth.email]
+	enable = true
+	active = true
+
+	[auth.qq]
+	enable = true
+
+	[auth.weibo]
+	enable = true
+
+[smtp]
+host = "smtp.exmail.qq.com"
+port = 25
+user = "service@tangseng99.com"
+password = "kiss147011"
+sender = "service@tangseng99.com"
+replyto = "service@tangseng99.com"
+
+[template]
+markdown = "markdown.tpl"
+regist = "regist.tpl"
+forget = "forget.tpl"
+active = "active.tpl"
+
+[subject]
+regist = "新用户注册通知"
+forget = "用户密码重置"
+active = "用户激活通知"
+
+[third]	
+	[third.qiniu]
+	enable = true
+	appid = "quDvWYNyJpfK0ksicpnv99Lm5L5znHB4CQA84n-4"
+	secret = "QKlhdlcSa3ml6gNFyeMDbaXajBAbF3VpkWi823CA"
+	domain = "7u2inh.com1.z0.glb.clouddn.com"
+	bucket = "reseeu"
+
+[log]
+enable = true
+filename = "logs/h2o.log"
+level = "DEBUG"
+rotate = true
+rotate_daily = true
+rotate_max_line = 0
+rotate_max_size = 0
+
+
