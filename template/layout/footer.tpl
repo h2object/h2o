@@ -1,3 +1,4 @@
+{{define "footer"}}		
 		<hr>
 		<div class="container">
 			<ul class="list-inline text-center">
@@ -10,3 +11,4 @@
 		</div>
 	</body>
 </html>
+{{end}}

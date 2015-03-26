@@ -1,4 +1,4 @@
-{{template "layout/header.tpl" .}}
+{{template "header" .}}
 <div class="jumbotron">
 	<div class="container">
 	  <h1>h2object.io</h1>
@@ -49,4 +49,4 @@
 	</div>			
 </div>
 
-{{template "layout/footer.tpl" .}}
+{{template "footer"}}
