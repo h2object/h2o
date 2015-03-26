@@ -1,10 +1,3 @@
-+++
-title = "h2object.io"
-active = "home"
-news = ["2015.03.26", "h2object.io云服务将于 **2015.05.04** 开放注册。"]
-anchors = [["特点", "features"], ["应用场景","scenes"],["下载&安装","install"],["用例","example"]]
-+++
-
 H2O
 ---
 
@@ -79,6 +72,3 @@ $:	./bin/h2o.linux -c=conf/h2o.toml -verbose http start
 
 ## 用例
 
-<code>
-本站由 **H2O** 提供的 markdown 文件处理服务提供, 压缩包解压启动后直接可以本地运行本站。
-</code>

@@ -25,7 +25,7 @@ $: git clone https://github.com/h2object/h2o.git
 
 - 版本 v0.0.1: [h2o.tar.gz](http://h2object.io/download/v0.0.1/h2o.tar.gz)
 
-* 	启动服务
+* **启动服务**
 
 ````shell
 $: tar -xvzf h2o.tar.gz
@@ -35,7 +35,7 @@ or
 $:  ./bin/h2o.linux -c=conf/h2o.toml -verbose http start
 ````
 
-* 	停止服务
+* **停止服务**
 
 按住<code>ctrl+c</code>停止服务。
 
