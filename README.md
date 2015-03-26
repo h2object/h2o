@@ -33,6 +33,6 @@ open the explore, input <code>http://127.0.0.1:9000</code> to check the H2O serv
 
 Example: 
 
-![](/img/h2object-site.png)
+![](https://github.com/h2object/h2o/blob/master/static/img/h2object-site.png)
 
 ### Enjoin it!
