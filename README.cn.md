@@ -72,3 +72,6 @@ $:	./bin/h2o.linux -c=conf/h2o.toml -verbose http start
 
 ## 用例
 
+h2object.io就是基于H2O提供Markdown文件服务搭建的内容型网站应用。
+
+![](/img/h2object-site.png)

@@ -31,5 +31,8 @@ open the explore, input <code>http://127.0.0.1:9000</code> to check the H2O serv
 
 ### Snapshot
 
+Example: 
+
+![](/img/h2object-site.png)
 
 ### Enjoin it!

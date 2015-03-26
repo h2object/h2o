@@ -29,10 +29,10 @@ $: git clone https://github.com/h2object/h2o.git
 
 ````shell
 $: tar -xvzf h2o.tar.gz
-$:  cd h2o
-$:  ./bin/h2o.osx -c=conf/h2o.toml -verbose http start
+$: cd h2o
+$: ./bin/h2o.osx -c=conf/h2o.toml -verbose http start
 or
-$:  ./bin/h2o.linux -c=conf/h2o.toml -verbose http start
+$: ./bin/h2o.linux -c=conf/h2o.toml -verbose http start
 ````
 
 * **停止服务**

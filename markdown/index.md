@@ -1,7 +1,7 @@
 +++
 title = "h2object.io"
 active = "home"
-news = ["2015.03.26", "h2object.io云服务将于 2015.05.04 开放注册。"]
+news = ["2015.03.26", "h2object.io云服务将于2015.05.04开放注册。"]
 anchors = [["特点", "features"], ["应用场景","scenes"],["下载&安装","install"],["用例","example"]]
 +++
 
@@ -63,21 +63,23 @@ $: git clone https://github.com/h2object/h2o.git
 
 ````shell
 $: tar -xvzf h2o.tar.gz
-$:  cd h2o
-$:	./bin/h2o.osx -c=conf/h2o.toml -verbose http start
+$: cd h2o
+$: ./bin/h2o.osx -c=conf/h2o.toml -verbose http start
 or
-$:	./bin/h2o.linux -c=conf/h2o.toml -verbose http start
+$: ./bin/h2o.linux -c=conf/h2o.toml -verbose http start
 ````
 
 启动浏览器, 输入<code>http://127.0.0.1:9000</code>, 展示 h2object.io 网站本地版本说明服务运行正常。
 
 * 	**停止服务**
 
-按住<kbd>ctrl+c</kbd>停止服务。
+按住<code>ctrl+c</code>停止服务。
 
 <a name="example"></a>
 
 ## 用例
+
+![](/img/h2object-site.png)
 
 <code>
 本站由 **H2O** 提供的 markdown 文件处理服务提供, 压缩包解压启动后直接可以本地运行本站。
