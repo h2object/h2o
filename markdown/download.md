@@ -22,9 +22,7 @@ anchors = [["H2O下载", "h2o"], ["Javascript SDK", "js"], ["Java SDK", "java"],
 	````
 2.  下载H2O压缩版本
 
--	版本: **v0.0.1**
-	-	[macosx](http://h2object.io/download/v0.0.1/h2o.osx.tar.gz)
-	-	[linux](http://h2object.io/download/v0.0.1/h2o.linux.tar.gz)
+-	版本 v0.0.1: [h2o.tar.gz](http://h2object.io/download/v0.0.1/h2o.tar.gz)
 
 ### SDK 
 
