@@ -13,14 +13,28 @@ anchors = [["安装&启动", "install"], ["对象服务","object"],["对象的�
 
 ### 1. 安装&启动
 
-* 	启动服务
-````shell
-$: tar -xvzf h2o.linux.tar.gz
-or
-$: tar -xvzf h2o.osx.tar.gz
-$: cd /h2o.osx
-$: ./bin/h2o -c=./conf/h2o.conf http start
+* **从github上获取最新版本**
+
 ````
+$: git clone https://github.com/h2object/h2o.git
+````
+
+或者,
+
+* **下载H2O压缩版本**
+
+- 版本 v0.0.1: [h2o.tar.gz](http://h2object.io/download/v0.0.1/h2o.tar.gz)
+
+* 	启动服务
+
+````shell
+$: tar -xvzf h2o.tar.gz
+$:  cd h2o
+$:  ./bin/h2o.osx -c=conf/h2o.toml -verbose http start
+or
+$:  ./bin/h2o.linux -c=conf/h2o.toml -verbose http start
+````
+
 * 	停止服务
 
 按住<code>ctrl+c</code>停止服务。

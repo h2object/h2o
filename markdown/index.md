@@ -57,20 +57,20 @@ $: git clone https://github.com/h2object/h2o.git
 
 *	**下载H2O压缩版本**
 
-	版本: **v0.0.1**
-	*	[macosx](http://h2object.io/download/v0.0.1/h2o.osx.tar.gz)
-	*	[linux](http://h2object.io/download/v0.0.1/h2o.linux.tar.gz)
+-	版本 v0.0.1: [h2o.tar.gz](http://h2object.io/download/v0.0.1/h2o.tar.gz)
 
 * 	**启动服务**
+
 ````shell
-$: tar -xvzf h2o.linux.tar.gz
-or
-$: tar -xvzf h2o.osx.tar.gz
+$: tar -xvzf h2o.tar.gz
 $:  cd h2o
-$:	./bin/h2o.osx -c=conf/h2o.toml http start
+$:	./bin/h2o.osx -c=conf/h2o.toml -verbose http start
 or
-$:	./bin/h2o.linux -c=conf/h2o.toml http start
+$:	./bin/h2o.linux -c=conf/h2o.toml -verbose http start
 ````
+
+启动浏览器, 输入<code>http://127.0.0.1:9000</code>, 展示 h2object.io 网站本地版本说明服务运行正常。
+
 * 	**停止服务**
 
 按住<kbd>ctrl+c</kbd>停止服务。
