@@ -1,7 +1,7 @@
 +++
 title = "h2object.io"
 active = "home"
-news = ["2015.03.26", "h2object.io云服务将于 **2015.05.04** 开放注册。"]
+news = ["2015.03.26", "h2object.io云服务将于 2015.05.04 开放注册。"]
 anchors = [["特点", "features"], ["应用场景","scenes"],["下载&安装","install"],["用例","example"]]
 +++
 

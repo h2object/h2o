@@ -1,7 +1,7 @@
 H2O
 ---
 
-[中文版本](https://github.com/h2object/h2o/blob/master/README.cn.md)
+[中文说明](https://github.com/h2object/h2o/blob/master/README.cn.md)
 
 H2O, simplified for HTTP to OBJECT service, the repository is the h2object.io service's local binary program.
 
@@ -18,6 +18,8 @@ And H2O also is the h2object.io website project, which is based on the H2O, usin
 ### Install & Starting
 
 ````
+$: git clone https://github.com/h2object/h2o.git
+
 $: cd h2o
 $: ./bin/h2o.osx -c=conf/h2o.toml -verbose http start
 
