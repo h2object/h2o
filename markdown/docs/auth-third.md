@@ -1,8 +1,9 @@
-+++
-title = "第三方认证"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "第三方认证",
+	"active": "docs",
+	"anchors":[]
+}
+
 
 第三方认证
 ---

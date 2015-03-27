@@ -1,8 +1,8 @@
-+++
-title = "Java SDK"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "Java SDK",
+	"active": "docs",
+	"anchors":[]
+}
 
 Java SDK
 ---

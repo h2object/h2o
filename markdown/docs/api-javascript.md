@@ -1,8 +1,8 @@
-+++
-title = "Javascript SDK"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "Javascript SDK",
+	"active": "docs",
+	"anchors":[]
+}
 
 Javascript SDK
 ---

@@ -1,8 +1,18 @@
-+++
-title = "模板文件"
-active = "docs"
-anchors = [["编辑模板","edit"],["编辑markdown模板","edit-md"],["编辑邮件模板","edit-email"],["编辑短信模板","edit-sms"],["编辑独立执行模板","edit-x"],["上传模板","upload"],["访问模板","access"],["执行模板","execute"],["markdown文件执行模板","md-execute"]]
-+++
+{
+  "title":"模板文件",
+  "active":"docs",
+  "anchors":[
+  	["编辑模板","edit"],
+  	["编辑markdown模板","edit-md"],
+  	["编辑邮件模板","edit-email"],
+  	["编辑短信模板","edit-sms"],
+  	["编辑独立执行模板","edit-x"],
+  	["上传模板","upload"],
+  	["访问模板","access"],
+  	["执行模板","execute"],
+  	["markdown文件执行模板","md-execute"]
+  ]
+}
 
 模板文件
 ---

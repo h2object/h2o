@@ -1,3 +1,9 @@
+{
+   "title": "贡献代码",
+   "active": "docs",
+   "anchors":[]
+}
+
 +++
 title = "贡献代码"
 active = "docs"

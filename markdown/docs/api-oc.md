@@ -1,8 +1,8 @@
-+++
-title = "ObjectC SDK"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "ObjectC SDK",
+	"active": "docs",
+	"anchors":[]
+}
 
 ObjectC SDK
 ---

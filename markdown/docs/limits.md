@@ -1,8 +1,8 @@
-+++
-title = "系统限制"
-active = "docs"
-anchors = []
-+++
+{
+   "title": "系统限制",
+   "active": "docs",
+   "anchors":[]
+}
 
 系统限制
 ---

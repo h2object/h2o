@@ -1,8 +1,15 @@
-+++
-active = "download"
-title = "下载"
-anchors = [["H2O下载", "h2o"], ["Javascript SDK", "js"], ["Java SDK", "java"], ["ObjectC SDK", "oc"], ["Go SDK", "go"]]
-+++
+{
+	"title":"下载",
+	"active":"download",
+	"anchors":[
+		["H2O下载", "h2o"], 
+		["Javascript SDK", "js"], 
+		["Java SDK", "java"], 
+		["ObjectC SDK", "oc"], 
+		["Go SDK", "go"]
+	]
+}
+
 
 下载
 ---

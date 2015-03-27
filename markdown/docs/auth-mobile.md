@@ -1,8 +1,8 @@
-+++
-title = "手机认证"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "手机认证",
+	"active": "docs",
+	"anchors":[]
+}
 
 手机认证
 ---

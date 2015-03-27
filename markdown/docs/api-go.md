@@ -1,8 +1,8 @@
-+++
-title = "Go SDK"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "Go SDK",
+	"active": "docs",
+	"anchors":[]
+}
 
 Go SDK
 ---

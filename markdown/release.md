@@ -1,8 +1,8 @@
-+++
-active = "release"
-title = "更新日志"
-anchors = [["版本发布", "versions"],["里程碑", "milestone"]]
-+++
+{
+  "title":"更新日志",
+  "active":"release",
+  "anchors":[["版本发布", "versions"],["里程碑", "milestone"]]
+}
 
 更新日志
 ---
@@ -17,7 +17,7 @@ anchors = [["版本发布", "versions"],["里程碑", "milestone"]]
 
 ### 里程碑
 
-*2015.03.20*
+*2015.03.26*
 	
 *	[h2object.io](http://h2object.io) 静态网站正式发布
 *	https://github.com/h2object 开放

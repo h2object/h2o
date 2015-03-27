@@ -1,7 +1,7 @@
-+++
-active = "home"
-title = "许可证"
-+++
+{
+	"title":"许可证",
+	"active":"home",
+}
 
 
 许可证

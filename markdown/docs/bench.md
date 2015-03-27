@@ -1,8 +1,8 @@
-+++
-title = "性能指标"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "性能指标",
+	"active": "docs",
+	"anchors":[]
+}
 
 性能指标
 ---

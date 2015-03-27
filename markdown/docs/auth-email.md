@@ -1,8 +1,8 @@
-+++
-title = "邮箱认证"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "邮箱认证",
+	"active": "docs",
+	"anchors":[]
+}
 
 邮箱认证
 ---

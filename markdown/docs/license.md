@@ -1,7 +1,8 @@
-+++
-active = "docs"
-title = "许可证"
-+++
+{
+   "title": "许可证",
+   "active": "docs",
+   "anchors":[]
+}
 
 许可证
 ----

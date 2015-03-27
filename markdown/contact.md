@@ -1,8 +1,12 @@
-+++
-active = "home"
-title = "联系我们"
-anchors = [["社交账号", "social"], ["邮箱账号", "mailbox"]]
-+++
+{
+	"title":"联系我们",
+	"active":"home",
+	"anchors":[
+		["社交账号", "social"], 
+		["邮箱账号", "mailbox"]
+	]
+}
+
 
 联系我们
 ---

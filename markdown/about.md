@@ -1,7 +1,8 @@
-+++
-active = "home"
-title = "关于我们"
-+++
+{
+	"title":"关于我们",
+	"active":"home",
+}
+
 
 关于我们
 ---

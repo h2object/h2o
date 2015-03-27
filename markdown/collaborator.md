@@ -1,8 +1,11 @@
-+++
-active = "home"
-title = "加入合作"
-anchors = [["合作伙伴", "collaborators"], ["加入方式", "join"]]
-+++
+{
+	"title":"加入合作",
+	"active":"home",
+	"anchors":[
+		["合作伙伴", "collaborators"], 
+		["加入方式", "join"]
+	]
+}
 
 加入合作
 ---

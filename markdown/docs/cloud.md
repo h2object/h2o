@@ -1,8 +1,9 @@
-+++
-title = "云端文件"
-active = "docs"
-anchors = [["文件上传","upload"],["文件访问","access"]]
-+++
+{
+	"title": "云端文件",
+	"active": "docs",
+	"anchors":[["文件上传","upload"],["文件访问","access"]]
+}
+
 
 云端文件
 ---

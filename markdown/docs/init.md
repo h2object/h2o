@@ -1,8 +1,8 @@
-+++
-title = "初始化"
-active = "docs"
-anchors = []
-+++
+{
+   "title": "初始化",
+   "active": "docs",
+   "anchors":[]
+}
 
 初始化
 ---

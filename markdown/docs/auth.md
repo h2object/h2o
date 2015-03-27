@@ -1,8 +1,8 @@
-+++
-title = "认证服务"
-active = "docs"
-anchors = []
-+++
+{
+	"title": "认证服务",
+	"active": "docs",
+	"anchors":[]
+}
 
 认证服务
 ---

@@ -1,8 +1,8 @@
-+++
-title = "对象的同步监听"
-active = "docs"
-anchors = [["访问","access"],["新增","post"],["删除","delete"],["修改","patch"],["重置","put"]]
-+++
+{
+   "title": "对象的同步监听",
+   "active": "docs",
+   "anchors":[["访问","access"],["新增","post"],["删除","delete"],["修改","patch"],["重置","put"]]
+}
 
 对象的同步监听
 ---

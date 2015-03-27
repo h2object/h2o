@@ -1,8 +1,8 @@
-+++
-title = "H2O命令"
-active = "docs"
-anchors = [["h2o http", "http"], ["h2o upload","upload"],["h2o export","export"],["h2o bench","bench"]]
-+++
+{
+   "title": "H2O命令",
+   "active": "docs",
+   "anchors":[["h2o http", "http"], ["h2o upload","upload"],["h2o export","export"],["h2o bench","bench"]]
+}
 
 H2O命令
 ---
