@@ -7,7 +7,7 @@
 下载&安装
 ---
 
-[上一章](/docs/quickstart.md)  |  [目录](/docs/index.md)  |  [下一章](/docs/init.md)
+[上一章](/docs/overview.md)  |  [目录](/docs/index.md)  |  [下一章](/docs/init.md)
 
 
 ### 1. 下载
