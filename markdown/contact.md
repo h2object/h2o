@@ -15,7 +15,9 @@
 
 ### 社交账号
 
+新浪微博: [weibo.com/h2object](http://weibo.com/h2object)
 
+QQ讨论群: [159823022](#)
 
 <a name="mailbox"></a>
 

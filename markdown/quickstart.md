@@ -327,7 +327,7 @@ http://127.0.0.1:9000/users.json?print=pretty&limit=4,0
 
 由于对象的同步功能, 需要创建长连接进行监听，使用curl工具无法操作。可以通过编辑前端页面,引入<code>h2object.js</code>脚本,
 
-使用javascript sdk提供监控函数操作。详细方法参考[对象的同步监听](/docs/object-sync.md)。
+使用javascript sdk提供监控函数操作。详细方法参考[对象的同步监听](/docs/object-watch.md)。
 
 <a name="file"></a>
 
@@ -365,7 +365,7 @@ $: curl -X PUT -T logo.png http://127.0.0.1:9000/img/google2.png?provider=qiniu
 
 #### 3.4 markdown文件处理
 
-编辑markdown文件，以并将markdown文件上传到指定路径并且以<code>.md</code>做未后缀。
+编辑markdown文件，以并将markdown文件上传到指定路径并且以<code>.md</code>作为请求后缀。
 
 打开浏览器输入<code>http://127.0.0.1:9000/demo.md</code>
 
@@ -377,11 +377,20 @@ $: curl -X PUT -T logo.png http://127.0.0.1:9000/img/google2.png?provider=qiniu
 
 如何编辑 markdown 模板, 只需要在输出 markdown 内容的位置编辑 <code>{{.markdown}}</code> 即可。
 
+具体markdown文件的编辑, 参见[markdown文件的编辑](/docs/markdown.md#edit).
+
 #### 3.5 template文件处理
 
-编辑template模板, 以并将template文件上传到指定路径并且以<code>.tpl</code>做未后缀。
+H2O服务中的模板包括四类:
 
-这样，在markdown文件处理中就可以设置该template文件。
+* markdown页面模板
+* 邮件内容页面模板
+* 短信内容页面模板
+* 直接生成网页页面模板
+
+具体各模板如何编辑, 包括哪些具体可替换参数与函数。参见[template文件的编辑](/docs/template.md#edit).
+
+编辑template模板完成后, 以并将template文件上传到指定路径并且以<code>.tpl</code>作为请求后缀。
 
 <a name="auth"></a>
 
