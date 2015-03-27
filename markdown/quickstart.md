@@ -33,7 +33,7 @@ $: git clone https://github.com/h2object/h2o.git
 
 * **下载H2O压缩版本**
 
-- 版本 v0.0.1: [h2o.tar.gz](http://h2object.io/download/v0.0.1/h2o.tar.gz)
+-  版本 v0.0.1: [h2o.v0.0.1.tar.gz](https://github.com/h2object/h2o/archive/v0.0.1.tar.gz)
 
 * **启动服务**
 

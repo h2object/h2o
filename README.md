@@ -17,6 +17,12 @@ And H2O also is the h2object.io website project, which is based on the H2O, usin
 
 ### Install & Starting
 
+*	download
+
+	版本 v0.0.1: [h2o.v0.0.1.tar.gz](https://github.com/h2object/h2o/archive/v0.0.1.tar.gz)
+
+*	github:
+
 ````
 $: git clone https://github.com/h2object/h2o.git
 

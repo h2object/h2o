@@ -14,8 +14,7 @@
 
 系统提供以下版本的本地开发程序下载:
 
-*	mac版本:[h2o.osx.tar.gz](http://h2object.io/download/osx/h2o.tar.gz)
-*	linux版本:[h2o.linux.beta.tar.gz](http://h2object.io/download/linux/h2o.tar.gz)
+-	版本 v0.0.1: [h2o.v0.0.1.tar.gz](https://github.com/h2object/h2o/archive/v0.0.1.tar.gz)
 
 ### 2. 安装
 
@@ -26,11 +25,11 @@
 #### 3.1启动服务
 
 ````shell
-$: tar -xvzf h2o.linux.tar.gz
+$: tar -xvzf h2o.v0.0.1.tar.gz
+$: cd /h2o
+$: ./bin/h2o.osx -c=./conf/h2o.toml http start
 or
-$: tar -xvzf h2o.osx.tar.gz
-$: cd /h2o.osx
-$: ./bin/h2o -c=./conf/h2o.conf http start
+$: ./bin/h2o.linux -c=./conf/h2o.toml http start
 ````
 #### 3.2 停止服务
 
