@@ -21,11 +21,11 @@ markdown文件
 例如, 以下markdown用例, demo.md
 
 ````markdown
-+++
-title = "测试"
-author = "demo"
-tags = ["测试", "demo", "文章"]
-+++
+{
+	"title":"测试",
+	"author":"demo",
+	"tags":["测试", "demo", "文章"]
+}
 
 文章标题
 ---
