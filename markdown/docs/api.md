@@ -7,7 +7,7 @@
 API & SDK
 ---
 
-[上一章](/docs/system.md)  |  [目录](/docs/index.md)  |  [下一章](/docs/bench.md)
+[上一章](/docs/system.md)  |  [目录](/docs/index.md)  |  [下一章](/docs/api-http.md)
 
 H2O提供了一套统一的开发API, 所有SDK均基于该API进行开发。
 

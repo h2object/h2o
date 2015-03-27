@@ -1,7 +1,7 @@
 {
    "title": "H2O命令",
    "active": "docs",
-   "anchors":[["h2o http", "http"], ["h2o upload","upload"],["h2o export","export"],["h2o bench","bench"]]
+   "anchors":[["h2o http", "http"], ["h2o push", "push"],["h2o update", "update"], ["h2o upload","upload"],["h2o export","export"],["h2o bench","bench"]]
 }
 
 H2O命令
@@ -52,13 +52,29 @@ GLOBAL OPTIONS:
 
 ````
 
+<a name="http"></a>
+
 #### 1.1 http 命令
 
-#### 1.2 upload 命令
+<a name="push"></a>
 
-#### 1.3 export 命令
+#### 1.2 push 命令
 
-#### 1.4 bench 命令
+<a name="update"></a>
+
+#### 1.3 update 命令
+
+<a name="upload"></a>
+
+#### 1.4 upload 命令
+
+<a name="export"></a>
+
+#### 1.5 export 命令
+
+<a name="bench"></a>
+
+#### 1.6 bench 命令
 
 
 
