@@ -1,4 +1,6 @@
 {
+   "key":"download",
+   "link":"/download.md",
 	"title":"下载",
 	"active":"download",
 	"anchors":[

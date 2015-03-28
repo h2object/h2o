@@ -1,4 +1,6 @@
 {
+   "key":"contribution",
+   "link":"/docs/contribution.md",
 	"title": "贡献代码",
 	"active": "docs",
 	"anchors":[]

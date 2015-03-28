@@ -1,4 +1,6 @@
 {
+	"key":"api",
+	"link":"/docs/api.md",
 	"title": "API & SDK",
 	"active": "docs",
 	"anchors":[]

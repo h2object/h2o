@@ -1,4 +1,6 @@
 {
+   "key":"object",
+   "link":"/docs/object.md",
    "title": "对象服务",
    "active": "docs",
    "anchors":[]

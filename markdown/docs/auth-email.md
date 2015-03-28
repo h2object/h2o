@@ -1,4 +1,6 @@
 {
+	"key":"auth-email",
+	"link":"/docs/auth-email.md",
 	"title": "邮箱认证",
 	"active": "docs",
 	"anchors":[]

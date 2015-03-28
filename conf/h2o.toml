@@ -6,6 +6,12 @@ admin = false
 cache = false
 default_limit_size = 20
 
+[service]
+object = true
+file = true
+auth = false
+system = false
+
 [event]
 currency = 50
 

@@ -1,4 +1,6 @@
 {
+   "key":"configure",
+   "link":"/docs/configure.md",
    "title": "系统配置",
    "active": "docs",
    "anchors":[["应用设置", "application"], ["事件设置","event"],["会话设置","session"],["认证设置","auth"],["邮件设置","smtp"],["邮件主题","subject"],["第三方接入","third"],["日志设置","log"]]

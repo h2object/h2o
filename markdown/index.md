@@ -1,4 +1,6 @@
 {
+   "key":"home",
+   "link":"/index.md",
 	"title":"h2object.io",
 	"active":"home",
 	"news": [ "2015.03.26", "h2object.io云服务将于(2015.05.04)开放注册。" ],

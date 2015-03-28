@@ -1,4 +1,6 @@
 {
+	"key":"auth-mobile",
+	"link":"/docs/auth-mobile.md",
 	"title": "手机认证",
 	"active": "docs",
 	"anchors":[]

@@ -1,4 +1,6 @@
 {
+	"key":"cloud",
+	"link":"/docs/cloud.md",
 	"title": "云端文件",
 	"active": "docs",
 	"anchors":[["文件上传","upload"],["文件访问","access"]]

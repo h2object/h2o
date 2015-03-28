@@ -1,4 +1,6 @@
 {
+   "key":"markdown",
+   "link":"/docs/markdown.md",
    "title": "markdown文件",
    "active": "docs",
    "anchors":[["编辑","edit"],["上传","upload"],["访问","access"]]

@@ -1,4 +1,6 @@
 {
+   "key":"install",
+   "link":"/docs/install.md",
    "title": "下载&安装",
    "active": "docs",
    "anchors":[["下载", "download"], ["安装","install"],["应用","application"]]

@@ -1,4 +1,6 @@
 {
+   "key":"static",
+   "link":"/docs/static.md",
   "title":"静态文件",
   "active":"docs",
   "anchors":[["文件上传","upload"],["文件访问","access"]]

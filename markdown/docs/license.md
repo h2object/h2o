@@ -1,4 +1,6 @@
 {
+   "key":"license",
+   "link":"/docs/license.md",
    "title": "许可证",
    "active": "docs",
    "anchors":[]

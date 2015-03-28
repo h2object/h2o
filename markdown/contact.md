@@ -1,4 +1,6 @@
 {
+   "key":"contact",
+   "link":"/contact.md",
 	"title":"联系我们",
 	"active":"home",
 	"anchors":[

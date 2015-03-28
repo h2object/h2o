@@ -1,4 +1,6 @@
 {
+	"key":"api-java",
+	"link":"/docs/api-java.md",
 	"title": "Java SDK",
 	"active": "docs",
 	"anchors":[]

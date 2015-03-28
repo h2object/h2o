@@ -1,4 +1,6 @@
 {
+	"key":"auth",
+	"link":"/docs/auth.md",
 	"title": "认证服务",
 	"active": "docs",
 	"anchors":[]

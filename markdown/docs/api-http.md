@@ -1,4 +1,6 @@
 {
+	"key":"api-http",
+	"link":"/docs/api-http.md",
 	"title": "HTTP API",
 	"active": "docs",
 	"anchors":[]

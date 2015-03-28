@@ -1,4 +1,6 @@
 {
+   "key":"init",
+   "link":"/docs/init.md",
    "title": "初始化",
    "active": "docs",
    "anchors":[]

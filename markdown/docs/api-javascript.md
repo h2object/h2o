@@ -1,4 +1,6 @@
 {
+	"key":"api-js",
+	"link":"/docs/api-javascript.md",
 	"title": "Javascript SDK",
 	"active": "docs",
 	"anchors":[]

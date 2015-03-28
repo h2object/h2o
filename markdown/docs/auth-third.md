@@ -1,9 +1,10 @@
 {
+	"key":"auth-third",
+	"link":"/docs/auth-third.md",
 	"title": "第三方认证",
 	"active": "docs",
 	"anchors":[]
 }
-
 
 第三方认证
 ---

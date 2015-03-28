@@ -1,4 +1,6 @@
 {
+   "key":"object-crud",
+   "link":"/docs/object-crud.md",
    "title": "对象的增删改查",
    "active": "docs",
    "anchors":[["访问","access"],["新增","post"],["删除","delete"],["修改","patch"],["重置","put"]]

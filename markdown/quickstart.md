@@ -1,4 +1,6 @@
 {
+   "key":"quickstart",
+   "link":"/quickstart.md",
   "title":"快速开始",
   "active":"quickstart",
   "anchors":[

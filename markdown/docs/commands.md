@@ -1,4 +1,6 @@
 {
+   "key":"commands",
+   "link":"/docs/commands.md",
    "title": "H2O命令",
    "active": "docs",
    "anchors":[["h2o http", "http"], ["h2o push", "push"],["h2o update", "update"], ["h2o upload","upload"],["h2o export","export"],["h2o bench","bench"]]

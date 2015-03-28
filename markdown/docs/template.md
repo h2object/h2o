@@ -1,4 +1,6 @@
 {
+   "key":"template",
+   "link":"/docs/template.md",
   "title":"模板文件",
   "active":"docs",
   "anchors":[

@@ -1,4 +1,6 @@
 {
+	"key":"bench",
+	"link":"/docs/bench.md",
 	"title": "性能指标",
 	"active": "docs",
 	"anchors":[]

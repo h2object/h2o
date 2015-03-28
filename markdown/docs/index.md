@@ -1,4 +1,6 @@
 {
+   "key":"index",
+   "link":"/docs/index.md",
    "title": "H2O 开发指南",
    "active": "docs",
    "anchors":[]

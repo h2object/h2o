@@ -1,4 +1,6 @@
 {
+   "key":"h2o",
+   "link":"/docs/h2o.md",
    "title": "H2O服务",
    "active": "docs",
    "anchors":[]

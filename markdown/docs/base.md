@@ -1,4 +1,6 @@
 {
+	"key":"base",
+	"link":"/docs/base.md",
 	"title": "关键概念",
 	"active": "docs",
 	"anchors":[["请求", "http"], ["对象","object"],["映射","to"],["请求方法","method"],["请求后缀","suffix"],["处理流程","flow"]]

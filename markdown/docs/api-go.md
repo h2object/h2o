@@ -1,4 +1,6 @@
 {
+	"key":"api-go",
+	"link":"/docs/api-go.md",
 	"title": "Go SDK",
 	"active": "docs",
 	"anchors":[]

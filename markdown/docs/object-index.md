@@ -1,4 +1,6 @@
 {
+   "key":"object-index",
+   "link":"/docs/object-index.md",
    "title": "对象的属性索引",
    "active": "docs",
    "anchors":[["访问","access"],["新增","post"],["删除","delete"],["修改","patch"],["重置","put"]]

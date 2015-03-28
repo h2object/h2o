@@ -1,4 +1,6 @@
 {
+   "key":"file",
+   "link":"/docs/file.md",
    "title": "文件服务",
    "active": "docs",
    "anchors":[]

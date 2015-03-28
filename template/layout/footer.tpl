@@ -10,5 +10,14 @@
 			<p class="text-center">Copyright@2015. Powered By <a href="h2object.io">h2object.io</a>.</p>
 		</div>
 	</body>
+	<script>
+	var _hmt = _hmt || [];
+	(function() {
+	  var hm = document.createElement("script");
+	  hm.src = "//hm.baidu.com/hm.js?5bafcb642c3434cb8a1f745c06d24168";
+	  var s = document.getElementsByTagName("script")[0]; 
+	  s.parentNode.insertBefore(hm, s);
+	})();
+	</script>
 </html>
 {{end}}

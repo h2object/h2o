@@ -1,4 +1,6 @@
 {
+   "key":"release",
+   "link":"/docs/release.md",
   "title":"更新日志",
   "active":"release",
   "anchors":[["版本发布", "versions"],["里程碑", "milestone"]]

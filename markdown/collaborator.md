@@ -1,4 +1,6 @@
 {
+   "key":"collaborator",
+   "link":"/collaborator.md",
 	"title":"加入合作",
 	"active":"home",
 	"anchors":[

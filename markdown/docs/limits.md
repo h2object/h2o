@@ -1,4 +1,6 @@
 {
+   "key":"limits",
+   "link":"/docs/limits.md",
    "title": "系统限制",
    "active": "docs",
    "anchors":[]

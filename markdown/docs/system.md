@@ -1,4 +1,6 @@
 {
+   "key":"system",
+   "link":"/docs/system.md",
   "title":"系统服务",
   "active":"docs",
   "anchors":[["文件上传","upload"],["文件访问","access"]]
