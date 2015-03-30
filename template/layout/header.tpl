@@ -8,6 +8,8 @@
 	   <link href="/css/github_markdown.css" media="all" rel="stylesheet" type="text/css" />
 	   <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
 	   <script src="/js/bootstrap.js"></script>
+	   <link rel="shortcut icon" href="/img/favicon.ico" /> 
+	   <title>{{.meta.title}}</title>
 	</head>
 	<body>
 		<nav class="navbar navbar-default">
